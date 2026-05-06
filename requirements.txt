@@ -1,0 +1,9 @@
+streamlit
+groq
+gtts
+sounddevice
+numpy
+scipy
+python-dotenv
+pydub
+streamlit-audiorecorder
