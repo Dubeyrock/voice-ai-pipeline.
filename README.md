@@ -15,10 +15,7 @@
 
 ---
 
-## 🏗️ Architecture (flowchart).
-<img width="1536" height="1024" alt="archtecture_" src="https://github.com/user-attachments/assets/6b8ab733-9b9b-41e2-a935-44099a2c2faf" />
 
--------
 
 ## 🛠️ Tech Stack
 
