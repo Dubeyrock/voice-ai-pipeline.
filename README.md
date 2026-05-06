@@ -1,6 +1,6 @@
 # 🎙️ VoiceIQ — AI Voice Assistant Pipeline
 
-> **AI Voice Engineer Assignment** | 60-Minute Build Challenge  
+> **AI Project.** |  
 > A fully functional end-to-end Voice AI pipeline built without all-in-one voice assistant APIs.
 
 ---
