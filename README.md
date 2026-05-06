@@ -37,6 +37,5 @@ It takes user speech (live/recorded), transcribes it, processes it using an LLM,
 ---
 
 ## 🏗️ Architecture (flowchart).
+<img width="1536" height="1024" alt="archtecture_" src="https://github.com/user-attachments/assets/6b8ab733-9b9b-41e2-a935-44099a2c2faf" />
 
-
-<img width="1360" height="640" alt="voice_ai_pipeline_architecture" src="https://github.com/user-attachments/assets/1df316d0-bdf9-49cd-b0b8-584e4188b1a5" />
