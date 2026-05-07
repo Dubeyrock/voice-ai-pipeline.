@@ -1,4 +1,4 @@
-# 🎙️ VoiceIQ — AI Voice Assistant Pipeline
+# 🎙️ VoiceIQ — AI Voice Assistant Pipeline.
 
 > **AI Project.** |  
 > A fully functional end-to-end Voice AI pipeline built without all-in-one voice assistant APIs.
